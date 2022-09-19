@@ -1,3 +1,4 @@
-Veronica Ruiz 
+Veronica Ruiz
+Mariano Balmaseda 
 
 # ActividadGrupal
